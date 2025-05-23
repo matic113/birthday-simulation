@@ -3,7 +3,7 @@ revision = 2
 requires-python = ">=3.13"
 
 [[package]]
-name = "code"
+name = "birthday-problem-simulation"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
