@@ -38,7 +38,7 @@ The script is primarily built around three functions:
 3.  Navigate to the directory where you saved the file.
 4.  Execute the script:
     ```bash
-    python birthday_paradox.py
+    python main.py
     ```
 
 ---
