@@ -55,7 +55,7 @@ Running the script will display a Matplotlib window showing a plot with:
 
 For a deeper dive into the Birthday Paradox and related concepts:
 
-* **My Notion Page:** [Simulation: Birthday Paradox](https://www.notion.so/Simulation-Birthday-Paradox-1e1185ce01ea8043a818e0ad1138f9f6?pvs=4) - Detailed notes and exploration of this project.
+* **My Notion Page:** [Simulation: Birthday Paradox](https://bow-pantydraco-859.notion.site/Simulation-Birthday-Paradox-1e1185ce01ea8043a818e0ad1138f9f6) - Detailed notes and exploration of this project.
 * **Videos:**
     * [Hash Collisions & The Birthday Paradox - Computerphile](https://youtu.be/jsraR-el8_o?si=PTCXqGxBu6QZjy01)
     * [The Birthday Paradox - Vsauce](https://youtu.be/ofTb57aZHZs?si=e1SzX_0xYjWyK1U_)
