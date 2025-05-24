@@ -50,6 +50,8 @@ Running the script will display a Matplotlib window showing a plot with:
 * Lines representing both the simulated and theoretical probabilities.
 * Annotations indicating when the 50% probability mark is crossed.
 
+![Demo output showing the birthday paradox simulation results](pictures/demo.png)
+
 ---
 ## Resources 📚
 
